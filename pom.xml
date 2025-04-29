@@ -41,7 +41,7 @@
     <jacoco.version>0.8.12</jacoco.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
     <htmlunit.version>4.7.0</htmlunit.version>
-    <gson.version>2.11.0</gson.version>
+    <gson.version>2.13.1</gson.version>
     <guice.version>6.0.0</guice.version>
     <system-lambda.version>1.1.0</system-lambda.version>
     <maven-surefire-plugin.version>3.5.2</maven-surefire-plugin.version>
